@@ -3,70 +3,70 @@
     <!-- Notifications -->
     <string name="notifications_setting_title">NOTIFICHE</string>
 
-    <string name="you_have_one_message">You have one message.</string>
+    <string name="you_have_one_message">Hai un messagio.</string>
     <string name="notification_viewall">Mostra tutte le Notifiche</string>
-    <string name="messages_viewall">View all messages</string>
-	<string name="applying_changes">Applying changes</string>
-    <string name="you_have_n_messages">You have %d messages.</string>
-	<string name="sync_problem">Cookies cannot be synced. First run, yeah? Please just restart the app :)</string>
-    <string name="notification_sound_description">Choose a ringtone or silence: \u0020</string>
+    <string name="messages_viewall">Tutti i messaggi</string>
+	<string name="applying_changes">Salvando modifiche</string>
+    <string name="you_have_n_messages">Hai %d messaggi(o).</string>
+	<string name="sync_problem">Non trovo i cookie. E\' la prima volta che esegui l\'app? Riavvia per favore :)</string>
+    <string name="notification_sound_description">Seleziona una suoneria o il silenzio: \u0020</string>
     <string name="notifications_settings">Notifiche Impostazioni</string>
-    <string name="notifications_settings_description">Additional settings. Choose time interval, set up sounds, LED and vibration.</string>
-    <string name="facebook_notifications">Facebook Notifiche</string>
-    <string name="message_notifications">Facebook messagges</string>
-    <string name="interval_pref">Time interval for checking</string>
-    <string name="notification_sound">Notification sound</string>
-    <string name="interval_pref_description_new">Notifications will be checked every %s.</string>
-    <string name="notification_sound_msg">Message sound</string>
+    <string name="notifications_settings_description">Altre impostazioni: intervallo di tempo, suoni, LED e vibrazione.</string>
+    <string name="facebook_notifications">Notifiche Facebook</string>
+    <string name="message_notifications">Messaggi Facebook</string>
+    <string name="interval_pref">Intervallo di aggiornamento</string>
+    <string name="notification_sound">Suono di notifica</string>
+    <string name="interval_pref_description_new">Le notifiche avverrano ogni %s.</string>
+    <string name="notification_sound_msg">Suono del messaggio</string>
 	<string name="vibrate">Vibrazione</string>
-    <string name="led_light">LED light</string>
-	<string name="notifications_extra">Additional</string>
-    <string name="notifications_everywhere">Always notify</string>
-    <string name="notifications_everywhere_description">Also when you are on the main screen of the app.</string>
+    <string name="led_light">Luce LED</string>
+	<string name="notifications_extra">Extra</string>
+    <string name="notifications_everywhere">Notifica sempre</string>
+    <string name="notifications_everywhere_description">Anche quando sei nella schermata pricnipale dell\'app.</string>
     <!-- End Notifications -->
 
     <!-- General -->
-    <string name="general_setting_title">GENERAL</string>
+    <string name="general_setting_title">GENERALE</string>
     <string name="location_enabled_title">Accesso alla posizione</string>
     <string name="location_enabled_summary">Attivala per permettere a Toffeed di ottenere la tua posizione.</string>
     <string name="hide_editor_newsfeed_title">Nascondi l\'editor di stato nel News Feed</string>
-    <string name="hide_editor_newsfeed_summary">Quando attiva, l\'editor di stato sarà nascosto dal News Feed.</string>
+    <string name="hide_editor_newsfeed_summary">Quando attivo, l\'editor di stato sarà nascosto dal News Feed.</string>
     <string name="hide_editor_newsfeed_snackbar">Ricarica per applicare le modifiche</string>
     <string name="stop_images_title">Non visualizzare le immagini</string>
-    <string name="stop_images_summary">Quando attiva, non verranno visualizzate le immagini. Alcune immagini potrebbero rimanere nella cache.</string>
+    <string name="stop_images_summary">Quando attivo, non verranno visualizzate le immagini. Alcune immagini potrebbero rimanere nella cache.</string>
     <string name="hide_sponsored_title">Nascondi Contenuti "Sponsorizzati"</string>
-    <string name="hide_sponsored_summary">Quando attiva, verrà nascosta la pubblicità nel News Feed.</string>
-    <string name="hide_birthdays_title">Hide Birthdays</string>
-    <string name="hide_birthdays_summary">When enabled, will hide birthdays from the News Feed.</string>
+    <string name="hide_sponsored_summary">Quando attivo, verrà nascosta la pubblicità nel News Feed.</string>
+    <string name="hide_birthdays_title">Nascondi i compleanni</string>
+    <string name="hide_birthdays_summary">Quando attivo, nasconde tutti i compleanni dal News Feed.</string>
     <!-- End general -->
 
     <!-- Appearence -->
-    <string name="appearance_setting_title">APPEARANCE</string>
-    <string name="web_themes">Web themes</string>
-    <string name="web_themes_summary">You can choose different web themes.</string>
-    <string name="app_themes">App themes</string>
-    <string name="app_themes_summary">You can choose different app themes.</string>
+    <string name="appearance_setting_title">ASPETTO</string>
+    <string name="web_themes">Temi web</string>
+    <string name="web_themes_summary">Puoi selezionare diversi temi web.</string>
+    <string name="app_themes">Temi app</string>
+    <string name="app_themes_summary">Puoi selezionare diversi temi dell\'app.</string>
 
     <!-- Navigation -->
-    <string name="navigation_setting_title">NAVIGATION</string>
-    <string name="hide_menu_bar_title">Hide Menu bar</string>
-    <string name="hide_menu_bar_summary">When enabled, the Facebook Menu bar will be hidden.</string>
+    <string name="navigation_setting_title">NAVIGAZIONE</string>
+    <string name="hide_menu_bar_title">Nascondi la barra Menu</string>
+    <string name="hide_menu_bar_summary">Quando attivo, la barra Menu di Facebook sará nascosta.</string>
     <string name="hide_fab_on_scroll_title">Nascondi il Floating Action Button (FAB) quando scrolli</string>
-    <string name="hide_fab_on_scroll_summary">Quando attiva, nasconde il FAB quando scrolli in basso</string>
-    <string name="navigation_menu_settings">Navigation menu items</string>
-    <string name="navigation_menu_settings_description">You can show/hide items in the navigation menu.</string>
+    <string name="hide_fab_on_scroll_summary">Quando attivo, nasconde il FAB quando scrolli in basso</string>
+    <string name="navigation_menu_settings">Elementi del menu di navigazione</string>
+    <string name="navigation_menu_settings_description">Puoi mostrare/nascondere gli elementi del menu di navigazione.</string>
     <!-- Navigation: fab -->
     <string name="fab_text">Condividi uno stato</string>
     <string name="fab_photo">Condividi una foto</string>
     <string name="fab_checkin">Condividi posizione</string>
     <string name="fab_jump_top">Torna in Alto</string>
     <!-- Navigation: items -->
-    <string name="navigation_menu_title">NAVIGATION MENU</string>
+    <string name="navigation_menu_title">MENU DI NAVIGAZIONE</string>
     <string name="menu_settings">Impostazioni</string>
-    <string name="ic_menu_exitapp">Exit app</string>
-    <string name="ic_menu_exitapp_summary">When enabled, \'Exit app\' button on navigation menu disappear.</string>
-    <string name="ic_menu_fblogout">Log out</string>
-    <string name="ic_menu_fblogout_summary">When enabled, \'Log out\' button on navigation menu disappear.</string>
+    <string name="ic_menu_exitapp">Chiudi app</string>
+    <string name="ic_menu_exitapp_summary">Quando attivo, il bottone \'Chiudi app\' nel menu di navigazione sará nascosto.</string>
+    <string name="ic_menu_fblogout">Disconetti</string>
+    <string name="ic_menu_fblogout_summary">Quando attivo, il bottone \'Disconnetti\' nel menu di navigazione sará nascosto.</string>
     <string name="menu_photos">Photos</string>
     <string name="menu_photos_summary">When enabled, \'Photos\' button on navigation menu disappear.</string>
     <string name="menu_events">Events</string>
@@ -120,11 +120,11 @@
     <string name="permission_denied">Permesso negato</string>
 
 	<!-- About -->
-    <string name="more">More and credits</string>
-    <string name="about_updates">Updates</string>
-    <string name="updates">Check for a new version</string>
-    <string name="updates_summary">Load the page and download the latest version</string>
-    <string name="people_who_translated">Users who translated the app</string>
+    <string name="more">Altro e credits</string>
+    <string name="about_updates">Aggiornamenti</string>
+    <string name="updates">Controlla aggiornamenti</string>
+    <string name="updates_summary">Apri la pagina e scarica la nuova versione.</string>
+    <string name="people_who_translated">Utenti che hanno tradotto l\'app</string>
     <string name="devs_who_helped_me">Developers who helped me asking my questions and taking code from their apps</string>
 	<string name="help_translations">Help me to translate the app to your language</string>
 	<string name="about_translations">¡Help, we need you!</string>
